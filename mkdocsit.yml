@@ -1,0 +1,8 @@
+site_name: shouldwork
+site_description: asdasd
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
